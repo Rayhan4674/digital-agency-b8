@@ -31,6 +31,26 @@
   display: flex;
 
 }
+.title{
+    font-size: 55px;
+    font-weight: bold;
+    color: white;
+}
 .primary{
     color: red;
+}
+.description{
+    color: white;
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+.btn{
+    padding: 12px 20px;
+    border: none;
+}
+.bg-primary{
+    background-color: red;
+    color: white;
 }
