@@ -54,3 +54,36 @@
     background-color: red;
     color: white;
 }
+.service-cntainer{
+    height: 100vh;
+    background-image: url("./asset/image/footer-bg.png"),
+      linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8));
+    background-blend-mode: overlay;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+}
+.icon{
+    width: 70px;
+    margin-bottom: 20px;
+    width: 50px;
+   
+}
+.box{
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: ;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    background-color: white;
+    color: black;
+}
+.service-description{
+    width: 50%;
+}
